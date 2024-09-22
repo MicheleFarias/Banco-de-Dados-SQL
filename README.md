@@ -1,3 +1,4 @@
+
 # Exercício Prático de Banco de Dados em SQL
 
 O objetivo desta atividade é desenvolver habilidades práticas em manipulação de banco de dados utilizando SQL. Os exercícios abordam desde a criação de tabelas até a realização de consultas, atualizações e remoções de registros.
@@ -21,7 +22,8 @@ O objetivo desta atividade é desenvolver habilidades práticas em manipulação
 
 DBeaver |
 SQLite  |
-Python
+Python  |
+Jupyter
 ## Autores
 
 - [Michele Farias](https://www.github.com/michelefarias)
